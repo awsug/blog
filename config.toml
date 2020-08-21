@@ -1,30 +1,40 @@
 DefaultContentLanguage = "en"
-author = "Steve Francia"
+author = "AWSUGIN Organizers"
 baseURL = "https://kind-lumiere-21fab1.netlify.app/"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+copyright = ""
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 languageCode = "en"
 paginate = 3
 theme = "casper3"
-title = "Hugo Themes"
-[[menu.main]]
-identifier = "author"
-name = "Community Day India"
-url = "https://communityday.awsug.in/"
-weight = 2
+title = "AWS User Group India Blog"
 [[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 1
+weight = 10
+[[menu.main]]
+identifier = "image-credit"
+name = "Image Credit"
+url = "/image-credit/"
+weight = 20
+[[menu.main]]
+identifier = "github-repo-theme"
+name = "Get Theme on Github"
+url = "https://github.com/jonathanjanssens/hugo-casper3"
+weight = 30
+[[menu.main]]
+identifier = "author"
+name = "Author Homepage"
+url = "https://jonathanjanssens.com"
+weight = 40
 [params]
-description = "Just a demo site for the Casper3 theme ported to Hugo"
-facebook = "https://facebook.com"
-github = "https://github.com/jonathanjanssens"
-logo = "/images/ghost-transparent.png"
+description = "AWS User Group India's blog"
+facebook = "https://www.facebook.com/awsugindia"
+github = "https://github.com/awsug"
+logo = "/images/ug-logo-for-profile-pic-dark.png"
 mainSections = ["post"]
-twitter = "https://twitter.com"
+twitter = "https://www.twitter.com/awsugindia"
 [privacy.instagram]
 disabled = false
 simple = true
