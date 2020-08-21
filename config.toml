@@ -14,19 +14,9 @@ name = "About"
 url = "/about/"
 weight = 10
 [[menu.main]]
-identifier = "image-credit"
-name = "Image Credit"
-url = "/image-credit/"
-weight = 20
-[[menu.main]]
-identifier = "github-repo-theme"
-name = "Get Theme on Github"
-url = "https://github.com/jonathanjanssens/hugo-casper3"
-weight = 30
-[[menu.main]]
-identifier = "author"
-name = "Author Homepage"
-url = "https://jonathanjanssens.com"
+identifier = "register"
+name = "Register for Community Day India"
+url = "https://communityday.awsug.in/"
 weight = 40
 [params]
 description = "AWS User Group India's blog"
