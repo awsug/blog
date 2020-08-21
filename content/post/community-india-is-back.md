@@ -1,5 +1,5 @@
 +++
-author = "Sathya"
+author = ""
 date = 2020-08-21T18:50:40Z
 description = ""
 feature_image = ""
