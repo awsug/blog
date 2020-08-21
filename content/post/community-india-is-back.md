@@ -5,7 +5,7 @@ description = ""
 draft = true
 feature_image = ""
 tags = []
-title = "Community India is Back"
+title = "Welcome to AWS Community Day India, Virtual Edition"
 
 +++
-Welcome back! We're glad to have community day going again.
+Welcome back! We're glad to have Community Day going again.
