@@ -1,5 +1,5 @@
 DefaultContentLanguage = "en"
-author = "AWSUGIN Organizers"
+author = "AWSUGIN"
 baseURL = "https://kind-lumiere-21fab1.netlify.app/"
 copyright = ""
 enableInlineShortcodes = true
