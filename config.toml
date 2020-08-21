@@ -1,6 +1,6 @@
 DefaultContentLanguage = "en"
 author = "AWSUGIN"
-baseURL = "https://kind-lumiere-21fab1.netlify.app/"
+baseURL = "https://awsuginblog.netlify.app/"
 copyright = "2020"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
