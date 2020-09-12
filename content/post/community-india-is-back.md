@@ -2,7 +2,6 @@
 author = "Dhruv Aggarwal"
 date = 2020-08-21T18:50:40Z
 description = "AWS Community Days are community-organized cloud education events, featuring technical discussions and demos led by expert AWS users and industry leaders from around the world."
-draft = true
 feature_image = ""
 tags = ["AWS"]
 title = "Welcome to AWS Community Day India, Virtual Edition"
