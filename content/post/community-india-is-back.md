@@ -27,3 +27,22 @@ All skill levels are welcome to help accomplish our motto of learning, sharing a
 * Take helpful and valuable information back to business.
 * Gain visibility to get more publicity for your esteemed organisation.
 * Sporting chance for active participants to win AWS goodies.
+
+Please go through the [Code of Conduct](https://communityday.awsug.in/code-of-conduct.html) of the event.
+
+## **WORKSHOPS**
+
+AWS Community Day 2020 comes with 4 hands-on workshops listed as below:
+
+* **Containers:** The workshop will be lead by Sandip Das ( AWS Container Hero) and Dipali Kulshrestha (AWS Community Leader) on 17th October at 2:00 pm IST. The workshop will be of 4 hours.
+* **Machine Learning:** The workshop will be lead by Jayesh Ahire (AWS ML Hero) and Sukanya Mandal (AWS reInvent 2019 Diversity Scholarship Winner) on 17th October at 2:00 pm IST. The workshop will be of 4 hours.
+* **Serverless:** The workshop will be lead by Bhuvaneswari Subramani and Dhaval Nagar on 17th October at 2:00 pm IST. The workshop will be of 4 hours.
+* **Alexa:** The workshop will be lead by Karthik Ragubathy(Solutions Architect) with the Alexa team on 17th October at 2:00 pm IST. The workshop will be of 4 hours
+
+  ## **KEY-NOTE SPEAKER**
+
+  .![](/images/jeffbarr.jpg "eff Barr, Chief Evangelist, AWS")
+
+  **Jeff Barr, Chief Evangelist, AWS** gets to tell the AWS story to audiences all over the world. Jeff talks, blogs, record videos, and spreads the word via social media.  
+    
+  His main work product is the AWS Blog which he has been writing since the fall of 2004. In this role, Jeff works with the product teams to create interesting, informative, and technically accurate blog posts to highlight the latest and greatest AWS offerings. Jeff has written over 2,500 posts (well over a million words) and currently averages one finished post per calendar day.
