@@ -46,3 +46,5 @@ AWS Community Day 2020 comes with 4 hands-on workshops listed as below:
   **Jeff Barr, Chief Evangelist, AWS** gets to tell the AWS story to audiences all over the world. Jeff talks, blogs, record videos, and spreads the word via social media.  
     
   His main work product is the AWS Blog which he has been writing since the fall of 2004. In this role, Jeff works with the product teams to create interesting, informative, and technically accurate blog posts to highlight the latest and greatest AWS offerings. Jeff has written over 2,500 posts (well over a million words) and currently averages one finished post per calendar day.
+
+For more information, jump to [https://communityday.awsug.in/](https://communityday.awsug.in/ "https://communityday.awsug.in/")
