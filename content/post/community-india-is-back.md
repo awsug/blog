@@ -32,11 +32,11 @@ Please go through the [Code of Conduct](https://communityday.awsug.in/code-of-co
 
 ## **WORKSHOPS**
 
-AWS Community Day 2020 comes with 4 hands-on workshops listed as below:
+AWS Community Day 2020 workshops last for 4 hours and are listed below:
 
-* **Containers:** The workshop will be lead by Sandip Das ( AWS Container Hero) and Dipali Kulshrestha (AWS Community Leader) on 17th October at 2:00 pm IST. The workshop will be of 4 hours.
-* **Machine Learning:** The workshop will be lead by Jayesh Ahire (AWS ML Hero) and Sukanya Mandal (AWS reInvent 2019 Diversity Scholarship Winner) on 17th October at 2:00 pm IST. The workshop will be of 4 hours.
-* **Serverless:** The workshop will be lead by Bhuvaneswari Subramani and Dhaval Nagar on 17th October at 2:00 pm IST. The workshop will be of 4 hours.
+* **Containers:** The workshop will be lead by Sandip Das ( AWS Container Hero) and Dipali Kulshrestha (AWS Community Leader) on 17th October at 2:00 pm IST. The workshop will be for 4 hours.
+* **Machine Learning:** The workshop will be lead by Jayesh Ahire (AWS ML Hero) and Sukanya Mandal (AWS reInvent 2019 Diversity Scholarship Winner) on 17th October at 2:00 pm IST. The workshop will be for 4 hours.
+* **Serverless:** The workshop will be lead by Bhuvaneswari Subramani and Dhaval Nagar on 17th October at 2:00 pm IST. The workshop will be for 4 hours.
 * **Alexa:** The workshop will be lead by Karthik Ragubathy(Solutions Architect) with the Alexa team on 17th October at 2:00 pm IST. The workshop will be of 4 hours
 
   ## **KEYNOTE SPEAKER**
