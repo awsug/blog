@@ -19,14 +19,14 @@ All skill levels are welcome to help accomplish our motto of learning, sharing a
 
 ## **WHAT TO EXPECT FROM AWS COMMUNITY DAY?**
 
-* Renew, revive & revitalize to exemplify your excitement about the work you do.
-* Learn industry trends and intricacies about innovative implementations from AWS experts.
-* Harness the power of networking with AWS users, DevOps, developers & solutions architects.
-* Network with fellow AWS veterans & techies during breaks.
-* Novice to pioneer on relentless pursuit to learn can rejoice the AWS offerings & success stories under one roof.
-* Take helpful and valuable information back to business.
-* Gain visibility to get more publicity for your esteemed organisation.
-* Sporting chance for active participants to win AWS goodies.
+* Revolutionalizing the excitement of yours to the work you do. 
+* Learn intricacies about innovative implementations and Industry trends from AWS experts.
+* Networking with AWS users, DevOps, developers and solutions architects sharing their knowledge.
+* Networking with fellow AWS veterans and techies during breaks.
+* Novice to pioneer on a relentless pursuit to learn can rejoice the AWS offerings & products and success stories under one roof.
+* Learning useful and valuable information profitable for business and career.
+* Insights on gaining visibility to get more publicity for your esteemed organization.
+* An exclusive chance for active participants to win AWS goodies.
 
 Please go through the [Code of Conduct](https://communityday.awsug.in/code-of-conduct.html) of the event.
 
@@ -43,8 +43,8 @@ AWS Community Day 2020 comes with 4 hands-on workshops listed as below:
 
   .![](/images/jeffbarr.jpg "eff Barr, Chief Evangelist, AWS")
 
-  **Jeff Barr, Chief Evangelist, AWS** gets to tell the AWS story to audiences all over the world. Jeff talks, blogs, record videos, and spreads the word via social media.  
-    
+  **Jeff Barr, Chief Evangelist, AWS** gets to tell the AWS story to audiences all over the world. Jeff talks, blogs, record videos, and spreads the word via social media.
+
   His main work product is the AWS Blog which he has been writing since the fall of 2004. In this role, Jeff works with the product teams to create interesting, informative, and technically accurate blog posts to highlight the latest and greatest AWS offerings. Jeff has written over 2,500 posts (well over a million words) and currently averages one finished post per calendar day.
 
 For more information, jump to [https://communityday.awsug.in/](https://communityday.awsug.in/ "https://communityday.awsug.in/")
