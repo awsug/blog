@@ -21,7 +21,7 @@ All skill levels are welcome to help accomplish our motto of learning, sharing a
 
 * Revolutionalizing the excitement of yours to the work you do. 
 * Learn intricacies about innovative implementations and Industry trends from AWS experts.
-* Networking with AWS users, DevOps, developers and solutions architects sharing their knowledge.
+* Networking with AWS users, DevOps, developers, and solutions architects sharing their knowledge.
 * Networking with fellow AWS veterans and techies during breaks.
 * Novice to pioneer on a relentless pursuit to learn can rejoice the AWS offerings & products and success stories under one roof.
 * Learning useful and valuable information profitable for business and career.
@@ -39,7 +39,7 @@ AWS Community Day 2020 comes with 4 hands-on workshops listed as below:
 * **Serverless:** The workshop will be lead by Bhuvaneswari Subramani and Dhaval Nagar on 17th October at 2:00 pm IST. The workshop will be of 4 hours.
 * **Alexa:** The workshop will be lead by Karthik Ragubathy(Solutions Architect) with the Alexa team on 17th October at 2:00 pm IST. The workshop will be of 4 hours
 
-  ## **KEY-NOTE SPEAKER**
+  ## **KEYNOTE SPEAKER**
 
   .![](/images/jeffbarr.jpg "eff Barr, Chief Evangelist, AWS")
 
