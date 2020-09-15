@@ -19,7 +19,7 @@ All skill levels are welcome to help accomplish our motto of learning, sharing, 
 
 ## **WHAT TO EXPECT FROM AWS COMMUNITY DAY?**
 
-* Revolutionalizing the excitement of yours to the work you do. 
+* Revolutionalizing the excitement of yours to the work you do.
 * Learn intricacies about innovative implementations and Industry trends from AWS experts.
 * Networking with AWS users, DevOps, developers, and solutions architects sharing their knowledge.
 * Networking with fellow AWS veterans and techies during breaks.
@@ -34,14 +34,14 @@ Please go through the [Code of Conduct](https://communityday.awsug.in/code-of-co
 
 AWS Community Day 2020 workshops last for 4 hours and are listed below:
 
-* **Containers:** The workshop will be lead by Sandip Das ( AWS Container Hero) and Dipali Kulshrestha (AWS Community Leader) on 17th October at 2:00 pm IST. The workshop will be for 4 hours.
-* **Machine Learning:** The workshop will be lead by Jayesh Ahire (AWS ML Hero) and Sukanya Mandal (AWS reInvent 2019 Diversity Scholarship Winner) on 17th October at 2:00 pm IST. The workshop will be for 4 hours.
-* **Serverless:** The workshop will be lead by Bhuvaneswari Subramani and Dhaval Nagar on 17th October at 2:00 pm IST. The workshop will be for 4 hours.
-* **Alexa:** The workshop will be lead by Karthik Ragubathy(Solutions Architect) with the Alexa team on 17th October at 2:00 pm IST. The workshop will be of 4 hours
+* **Containers:** The workshop will be lead by Sandip Das ( AWS Container Hero) and Dipali Kulshrestha (AWS Community Leader) on 17th October at 2:00 pm IST. 
+* **Machine Learning:** The workshop will be lead by Jayesh Ahire (AWS ML Hero) and Sukanya Mandal (AWS reInvent 2019 Diversity Scholarship Winner) on 17th October at 2:00 pm IST. 
+* **Serverless:** The workshop will be lead by Bhuvaneswari Subramani and Dhaval Nagar on 17th October at 2:00 pm IST. 
+* **Alexa:** The workshop will be lead by Karthik Ragubathy(Solutions Architect) with the Alexa team on 17th October at 2:00 pm IST. 
 
   ## **KEYNOTE SPEAKER**
 
-  .![](/images/jeffbarr.jpg "eff Barr, Chief Evangelist, AWS")
+  ## .![](/images/jeffbarr.jpg "eff Barr, Chief Evangelist, AWS")
 
   **Jeff Barr, Chief Evangelist, AWS** gets to tell the AWS story to audiences all over the world. Jeff talks, blogs, record videos, and spreads the word via social media.
 
