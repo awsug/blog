@@ -11,11 +11,11 @@ We are glad to announce **AWS Community Day 2020, India Virtual Edition** from *
 
 ![](/images/ug-logo-for-profile-pic-dark.png)
 
-**AWS User Group India** is united by community-led learning and diversified by the wide variety of tools and technologies closely knit with Amazon Web Services, cloud computing technology, AWS design implementation and servicing, high scalability / performance computing, production use cases of AWS, block chain, Artificial Intelligence and much more.
+**AWS User Group India** is united by community-led learning and diversified by the wide variety of tools and technologies closely knit with Amazon Web Services, cloud computing technology, AWS design implementation, and servicing, high scalability/performance computing, production use cases of AWS, blockchain, Artificial Intelligence and much more.
 
-Community-based learning is the best way to enhance the concepts being taught by connecting with enthusiasts in person, thereby sharing first-hand experiences and familiar, accessible examples.
+Community-based learning is the best way to enhance the concepts being taught by connecting with like-minded enthusiasts , thereby sharing first-hand experiences and familiar, accessible examples.
 
-All skill levels are welcome to help accomplish our motto of learning, sharing and networking. Let's join hands to empower this tech community to make it bigger and better!
+All skill levels are welcome to help accomplish our motto of learning, sharing, and networking. Let's join hands to empower this tech community to make it bigger and better!
 
 ## **WHAT TO EXPECT FROM AWS COMMUNITY DAY?**
 
