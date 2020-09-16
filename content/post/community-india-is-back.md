@@ -34,14 +34,14 @@ Please go through the [Code of Conduct](https://communityday.awsug.in/code-of-co
 
 AWS Community Day 2020 workshops last for 4 hours and are listed below:
 
-* **Containers:** The workshop will be lead by Sandip Das ( AWS Container Hero) and Dipali Kulshrestha (AWS Community Leader) on 17th October at 2:00 pm IST. 
-* **Machine Learning:** The workshop will be lead by Jayesh Ahire (AWS ML Hero) and Sukanya Mandal (AWS reInvent 2019 Diversity Scholarship Winner) on 17th October at 2:00 pm IST. 
-* **Serverless:** The workshop will be lead by Bhuvaneswari Subramani and Dhaval Nagar on 17th October at 2:00 pm IST. 
-* **Alexa:** The workshop will be lead by Karthik Ragubathy(Solutions Architect) with the Alexa team on 17th October at 2:00 pm IST. 
+* **Containers:** The workshop will be lead by AWS Container Hero [Sandip Das](https://www.linkedin.com/in/sandip-das-developer/) and AWS Community Leader [Dipali Kulshrestha](https://www.linkedin.com/in/dipalik/) on 17th October at 2:00 pm IST.
+* **Machine Learning:** The workshop will be lead by AWS ML Hero [Jayesh Ahire](https://www.linkedin.com/in/jayesh-ahire/) and AWS reInvent 2019 Diversity Scholarship Winner [Sukanya Mandal](https://www.linkedin.com/in/sukanyamandal/) on 17th October at 2:00 pm IST.
+* **Serverless:** The workshop will be lead by AWS Community Heroes [Bhuvaneswari Subramani](https://www.linkedin.com/in/bhuvanas/) and Hero [Dhaval Nagar](https://www.linkedin.com/in/dhavaln/) on 17th October at 2:00 pm IST.
+* **Alexa:** The workshop will be lead by [Karthik Ragubathy](https://www.linkedin.com/in/pkarthikr/?originalSubdomain=in), Solutions Architect with the Alexa team on 17th October at 2:00 pm IST.
 
-  ## **KEYNOTE SPEAKER**
-
-  ## .![](/images/jeffbarr.jpg "eff Barr, Chief Evangelist, AWS")
+ ## **KEYNOTE SPEAKER**
+ 
+  ![](/images/jeffbarr.jpg "Jeff Barr, Chief Evangelist, AWS")
 
   **Jeff Barr, Chief Evangelist, AWS** gets to tell the AWS story to audiences all over the world. Jeff talks, blogs, record videos, and spreads the word via social media.
 
