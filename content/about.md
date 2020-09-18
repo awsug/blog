@@ -3,7 +3,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "AWS User Group India Community"
 date = 2019-02-28T00:00:00Z
 description = "About AWS User Group India community"
-feature_image = "/images/ug-logo-for-profile-pic-dark.png"
+feature_image = ""
 title = "About"
 
 +++
