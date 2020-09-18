@@ -1,6 +1,6 @@
 DefaultContentLanguage = "en"
-author = "AWSUGIN"
-baseURL = "https://awsuginblog.netlify.app/"
+author = "AWS User Group India Community"
+baseURL = "https://blog.awsug.in/"
 copyright = "2020"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
