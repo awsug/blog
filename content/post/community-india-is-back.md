@@ -2,7 +2,7 @@
 author = "Dhruv Aggarwal"
 date = 2020-08-21T18:50:40Z
 description = "AWS Community Days are community-organized cloud education events, featuring technical discussions and demos led by expert AWS users and industry leaders from around the world."
-feature_image = ""
+feature_image = "/images/ecnqifwwoay5ix8.png"
 tags = ["AWS"]
 title = "Welcome to AWS Community Day India, Virtual Edition"
 
@@ -39,12 +39,12 @@ AWS Community Day 2020 workshops last for 4 hours and are listed below:
 * **Serverless:** The workshop will be lead by AWS Community Heroes [Bhuvaneswari Subramani](https://www.linkedin.com/in/bhuvanas/) and Hero [Dhaval Nagar](https://www.linkedin.com/in/dhavaln/) on 17th October at 2:00 pm IST.
 * **Alexa:** The workshop will be lead by [Karthik Ragubathy](https://www.linkedin.com/in/pkarthikr/?originalSubdomain=in), Solutions Architect with the Alexa team on 17th October at 2:00 pm IST.
 
- ## **KEYNOTE SPEAKER**
- 
-  ![](/images/jeffbarr.jpg "Jeff Barr, Chief Evangelist, AWS")
+## **KEYNOTE SPEAKER**
 
-  **Jeff Barr, Chief Evangelist, AWS** gets to tell the AWS story to audiences all over the world. Jeff talks, blogs, record videos, and spreads the word via social media.
+![](/images/jeffbarr.jpg "Jeff Barr, Chief Evangelist, AWS")
 
-  His main work product is the AWS Blog which he has been writing since the fall of 2004. In this role, Jeff works with the product teams to create interesting, informative, and technically accurate blog posts to highlight the latest and greatest AWS offerings. Jeff has written over 2,500 posts (well over a million words) and currently averages one finished post per calendar day.
+**Jeff Barr, Chief Evangelist, AWS** gets to tell the AWS story to audiences all over the world. Jeff talks, blogs, record videos, and spreads the word via social media.
+
+His main work product is the AWS Blog which he has been writing since the fall of 2004. In this role, Jeff works with the product teams to create interesting, informative, and technically accurate blog posts to highlight the latest and greatest AWS offerings. Jeff has written over 2,500 posts (well over a million words) and currently averages one finished post per calendar day.
 
 For more information, jump to [https://communityday.awsug.in/](https://communityday.awsug.in/ "https://communityday.awsug.in/")
