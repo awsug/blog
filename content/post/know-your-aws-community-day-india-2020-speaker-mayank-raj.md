@@ -12,3 +12,9 @@ Mayank Raj is working as a Solution Architect at Cactus Labs, India will be spea
 [Speaker Introduction]()<Add URL>
 
 <Adding summary from Intro video of speaker>Mayank Raj says
+
+<Explanation of the AWS product/service using in session>
+
+Tune into the session!
+
+Register at [https://communityday.awsug.in/](https://communityday.awsug.in/ "https://communityday.awsug.in/")
