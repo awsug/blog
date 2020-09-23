@@ -7,7 +7,7 @@ tags = ["AWS", "AWSCommunityDay2020", "Speaker", "Ansible"]
 title = "Know Your AWS Community Day India 2020 Speaker - Abesh Rajasekharan"
 
 +++
-Abesh Rajasekharan is working as a Senior Engineering Manager at Thomson Reuters will be speaking on "**Using Ansible to manage Hybrid Architecture**" at <time> on <date> at AWS Community Day India 2020.
+Abesh Rajasekharan is working as a Senior Engineering Manager at Thomson Reuters will be speaking on "**Using Ansible to manage Hybrid Architecture**" from 02:00 PM - 02:45 PM Track 2 on 16th October 2020 AWS Community Day India 2020.
 
 [Speaker Introduction]()<URL>
 
