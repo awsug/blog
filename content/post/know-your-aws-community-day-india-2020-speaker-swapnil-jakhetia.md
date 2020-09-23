@@ -12,7 +12,7 @@ Swapnil Jakhetia is working as a Solution Architect at Blazeclan, India will be 
 
 [Swapnil Jakhetia Introduction](https://drive.google.com/file/d/1MBbEhl9oF8BDCqtp1HI_Yisn_iOHJyrj/view)
 
-Swapnil Jakhetia says "Cloud Development Kit(CDK) redefined the way we look at Infrastructure as code". He will talk about interacting with high-level languages like python and java with a cloud development kit(CDK) with concepts and building blocks of CDK.
+**Swapnil Jakhetia** says "Cloud Development Kit(CDK) redefined the way we look at Infrastructure as code". He will talk about interacting with high-level languages like python and java with a cloud development kit(CDK). He will also talk about the concepts & building blocks of CDK with a hands-on Demo. 
 
 ![](/images/cdk.png)
 
