@@ -11,11 +11,11 @@ Yogesh Sharma is working as a Cloud Architect at TCS, Australia will be speaking
 
 [Speaker Introduction]()<URL>
 
-<Summary from Intro video of speaker>Yogesh Sharma says
+<Summary from intro video of speaker>Yogesh Sharma says
 
 ![](/images/aws.PNG)
 
-Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so as to get timely insights and react quickly to new information. Amazon Kinesis offers key capabilities to cost-effectively process streaming data at any scale, along with the flexibility to choose the tools that best suit the requirements of the application. 
+Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so as to get timely insights and react quickly to new information. Amazon Kinesis offers key capabilities to cost-effectively process streaming data at any scale, along with the flexibility to choose the tools that best suit the requirements of the application.
 
 AWS Fargate is a serverless compute engine for containers that work with both Amazon Elastic Container Service (ECS) and Amazon Elastic Kubernetes Service (EKS). Fargate makes it easy to focus on building applications with the removal of the need to provision and manage servers with improvement in security through application isolation by design.
 
