@@ -7,7 +7,7 @@ tags = ["AWS", "AWSCommunityDay2020", "Speaker", "Aurora"]
 title = "Know Your AWS Community Day India 2020 Speaker - Swaroop Hegde"
 
 +++
-Swaroop Hegde is a Co-founder at BlockVigil, USA will be speaking on "**Using Aurora Global Database for 10x Faster API**" at <time> on <date> at AWS Community Day India 2020.
+Swaroop Hegde is a Co-founder at BlockVigil, USA will be speaking on "**Using Aurora Global Database for 10x Faster API**" from 10:00 AM - 10:45 AM Track 1 on 16th October 2020 at AWS Community Day India 2020.
 
 [Speaker Introduction]()<Add URL>
 
@@ -19,4 +19,4 @@ Amazon Aurora Global Database replicates the data with no impact on database per
 
 Tune into the session!
 
- Register at [https://communityday.awsug.in/](https://communityday.awsug.in/ "https://communityday.awsug.in/")
+Register at [https://communityday.awsug.in/](https://communityday.awsug.in/ "https://communityday.awsug.in/")
