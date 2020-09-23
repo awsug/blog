@@ -7,7 +7,7 @@ tags = ["Speaker", "AWS", "AWSCommunityDay2020", "AWS CDK"]
 title = "Know Your AWS Community Day India 2020 Speaker - Swapnil Jakhetia"
 
 +++
-Swapnil Jakhetia is working as a Solution Architect at Blazeclan, India will be speaking on "**Infrastructure is Code with AWS CDK**" from 12:00 PM - 12:45 PM on 16th October 2020 at AWS Community Day India 2020.
+Swapnil Jakhetia is working as a Solution Architect at Blazeclan, India will be speaking on "**Infrastructure is Code with AWS CDK**" from 12:00 PM - 12:45 PM Track 1 on 16th October 2020 at AWS Community Day India 2020.
 
 [Swapnil Jakhetia Introduction](https://drive.google.com/file/d/1MBbEhl9oF8BDCqtp1HI_Yisn_iOHJyrj/view)
 
