@@ -3,7 +3,7 @@ author = "Dhruv Aggarwal"
 date = 2020-09-23T14:12:08Z
 description = "Swapnil Jakhetia will be speaking on \"Infrastructure is Code with AWS CDK\" at <time> on <date> at AWS Community Day India 2020."
 feature_image = "/images/swapnil.PNG"
-tags = ["AWS", "AWSCommunityDayIndia", "AWS CDK", "Speaker"]
+tags = ["AWS", "AWS CDK", "Speaker", "AWSCommunityDay2020"]
 title = "Know Your AWS Community Day India 2020 Speaker - Swapnil Jakhetia"
 
 +++
