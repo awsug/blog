@@ -2,7 +2,6 @@
 author = "Dhruv Aggarwal"
 date = 2020-09-23T19:02:16Z
 description = "Yogesh Sharma will be speaking on \"\"Intelligent Serverless and Scalable Real-Time Data Pipeline using Kinesis, Fargate, and CFN\" at <time> on <date> at AWS Community Day India 2020."
-draft = true
 feature_image = "/images/yogesh.PNG"
 tags = ["AWS", "AWSCommunityDay2020", "Speaker", "Kinesis", "Fargate", "CFN"]
 title = "Know Your AWS Community Day India 2020 Speaker -Yogesh Sharma"
@@ -13,3 +12,15 @@ Yogesh Sharma is working as a Cloud Architect at TCS, Australia will be speaking
 [Speaker Introduction]()<URL>
 
 <Summary from Intro video of speaker>Yogesh Sharma says
+
+![](/images/aws.PNG)
+
+Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so as to get timely insights and react quickly to new information. Amazon Kinesis offers key capabilities to cost-effectively process streaming data at any scale, along with the flexibility to choose the tools that best suit the requirements of the application. 
+
+AWS Fargate is a serverless compute engine for containers that work with both Amazon Elastic Container Service (ECS) and Amazon Elastic Kubernetes Service (EKS). Fargate makes it easy to focus on building applications with the removal of the need to provision and manage servers with improvement in security through application isolation by design.
+
+AWS CloudFormation provides a common language to model and provision AWS and third-party application resources in the cloud environment. AWS CloudFormation uses programming languages or a simple text file to model and provision, in an automated and secure manner, all the resources needed for your applications across all regions and accounts.
+
+Tune into the session!
+
+Register at [https://communityday.awsug.in/](https://communityday.awsug.in/ "https://communityday.awsug.in/")
