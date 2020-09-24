@@ -1,7 +1,7 @@
 +++
 author = "Dhruv Aggarwal"
 date = 2020-09-23T19:02:16Z
-description = "Yogesh Sharma will be speaking on \"\"Intelligent Serverless and Scalable Real-Time Data Pipeline using Kinesis, Fargate, and CFN\" at <time> on <date> at AWS Community Day India 2020."
+description = "Interested to know more about Yogesh Sharma? Read on."
 feature_image = "/images/yogesh.PNG"
 tags = ["AWS", "AWSCommunityDay2020", "Speaker", "Kinesis", "Fargate", "CFN"]
 title = "Know Your AWS Community Day India 2020 Speaker -Yogesh Sharma"
