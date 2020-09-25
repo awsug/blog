@@ -11,7 +11,9 @@ Yogesh Sharma is working as a Cloud Architect at TCS, Australia will be speaking
 
 [Speaker Introduction]()<URL>
 
-<Summary from intro video of speaker>Yogesh Sharma says
+Yogesh Sharma says
+
+  {{< youtube 2QfQVLfRxU4 >}}
 
 ![](/images/aws.PNG)
 
