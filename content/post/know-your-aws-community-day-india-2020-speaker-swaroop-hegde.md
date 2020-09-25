@@ -9,7 +9,7 @@ title = "Know Your AWS Community Day India 2020 Speaker - Swaroop Hegde"
 +++
 Swaroop Hegde is a Co-founder at BlockVigil, USA will be speaking on "**Using Aurora Global Database for 10x Faster API**" from 10:00 AM - 10:45 AM Track 1 on 16th October 2020 at AWS Community Day India 2020.
 
-[Speaker Introduction]()<Add URL>
+{{< youtube ftCQMdO353M >}}
 
 <Adding summary from Intro video of speaker>Swaroop Hegde says
 
