@@ -9,8 +9,7 @@ title = "Know Your AWS Community Day India 2020 Speaker - Abesh Rajasekharan"
 +++
 Abesh Rajasekharan is working as a Senior Engineering Manager at Thomson Reuters will be speaking on "**Using Ansible to manage Hybrid Architecture**" from 02:00 PM - 02:45 PM Track 2 on 16th October 2020 AWS Community Day India 2020.
 
-{{< youtube RQXvTIRR96Q >}}
-
+{<iframe width="560" height="315" src="[https://www.youtube.com/embed/RQXvTIRR96Q](https://www.youtube.com/embed/RQXvTIRR96Q "https://www.youtube.com/embed/RQXvTIRR96Q")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>}
 
 ![](/images/ansible.png)
 
