@@ -3,7 +3,7 @@ author = "Dhruv Aggarwal"
 date = 2020-09-23T17:10:37Z
 description = "Tushar Gupta will be speaking on \"Secure Cloud Governance with AWS Landing Zone\" at <time> on <date> at AWS Community Day India 2020."
 feature_image = "/images/tushar.PNG"
-tags = ["AWS", "AWSCommunityDay2020", "Speaker"]
+tags = ["Speaker", "AWS", "AWSCommunityDay2020", "AWS Landing Zone"]
 title = "Know Your AWS Community Day India 2020 Speaker - Tushar Gupta"
 
 +++
