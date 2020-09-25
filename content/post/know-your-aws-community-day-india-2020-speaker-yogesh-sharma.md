@@ -9,11 +9,10 @@ title = "Know Your AWS Community Day India 2020 Speaker -Yogesh Sharma"
 +++
 Yogesh Sharma is working as a Cloud Architect at TCS, Australia will be speaking on "**Intelligent Serverless and Scalable Real-Time Data Pipeline using Kinesis, Fargate, and CFN**" from 10:00 AM - 10:45 AM Track 2 on 16th October 2020 at AWS Community Day India 2020.
 
-[Speaker Introduction]()<URL>
+Yogesh says
 
-Yogesh Sharma says
 
-  {{< youtube 2QfQVLfRxU4 >}}
+{{< youtube 2QfQVLfRxU4 >}}
 
 ![](/images/aws.PNG)
 
