@@ -9,7 +9,7 @@ title = "Know Your AWS Community Day India 2020 Speaker - Tushar Gupta"
 +++
 Tushar Gupta is working as a Senior Cloud Consultant- APAC at SoftwareONE will be speaking on "**Secure Cloud Governance with AWS Landing Zone**" from 11:00 AM - 11:45 AM Track 2 on 16th October 2020 at AWS Community Day India 2020.
 
-{{< youtube -9vKRtKYDeM >}
+{{< youtube -9vKRtKYDeM >}}
 
 <Summary from Intro video of speaker>Tushar Gupta says
 
