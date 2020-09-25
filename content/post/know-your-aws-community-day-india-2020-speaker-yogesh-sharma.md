@@ -11,8 +11,6 @@ Yogesh Sharma is currently a Cloud Architect at TCS, Australia. Yogesh will be p
 
 {<iframe width="560" height="315" src="[https://www.youtube.com/embed/2QfQVLfRxU4](https://www.youtube.com/embed/2QfQVLfRxU4 "https://www.youtube.com/embed/2QfQVLfRxU4")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>}
 
-Yogesh says
-
 ![](/images/aws.PNG)
 
 Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so as to get timely insights and react quickly to new information. Amazon Kinesis offers key capabilities to cost-effectively process streaming data at any scale, along with the flexibility to choose the tools that best suit the requirements of the application.
