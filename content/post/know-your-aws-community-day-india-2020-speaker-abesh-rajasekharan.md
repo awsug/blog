@@ -1,13 +1,13 @@
 +++
 author = "Dhruv Aggarwal"
 date = 2020-09-23T16:54:08Z
-description = "Abesh Rajasekharan will be speaking on \"Using Ansible to manage Hybrid Architecture\" at <time> on <date> at AWS Community Day India 2020."
+description = "Abesh Rajasekharan will be speaking on \"Using Ansible to manage Hybrid Architecture\" from 02:00 PM - 02:45 PM Track 2 on 16th October at AWS Community Day India 2020."
 feature_image = "/images/abesh.PNG"
 tags = ["Speaker", "AWSComunityDay2020", "AWS", "Ansible"]
 title = "Know Your AWS Community Day India 2020 Speaker - Abesh Rajasekharan"
 
 +++
-Abesh Rajasekharan is currently a Senior Engineering Manager at Thomson Reuters. Abesh will be presenting a session on "**Using Ansible to manage Hybrid Architecture**" from 02:00 PM - 02:45 PM Track 2 on 16th October 2020 AWS Community Day India 2020.
+Abesh Rajasekharan is currently a Senior Engineering Manager at Thomson Reuters. Abesh will be presenting a session on "**Using Ansible to manage Hybrid Architecture**" from 02:00 PM - 02:45 PM Track 2 on 16th October 2020 at AWS Community Day India 2020.
 
 {<iframe width="560" height="315" src="[https://www.youtube.com/embed/RQXvTIRR96Q](https://www.youtube.com/embed/RQXvTIRR96Q "https://www.youtube.com/embed/RQXvTIRR96Q")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>}
 
