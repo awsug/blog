@@ -1,7 +1,7 @@
 +++
 author = "Dhruv Aggarwal"
 date = 2020-09-23T15:36:47Z
-description = "Mayank Raj will be speaking on \"Serverless Cron with Second level Schedule and Conditional flow\" at <time> on <date> at AWS Community Day India 2020."
+description = "Mayank Raj will be speaking on \"Serverless Cron with Second level Schedule and Conditional flow\" from 02:00 PM - 02:45 PM Track 2 on 16th October 2020 at AWS Community Day India 2020."
 feature_image = "/images/mayank.PNG"
 tags = ["Speaker", "AWSCommunityDay2020", "AWS"]
 title = "Know Your AWS Community Day India 2020 Speaker - Mayank Raj"
