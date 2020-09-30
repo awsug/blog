@@ -1,7 +1,7 @@
 +++
 author = "Dhruv Aggarwal"
 date = 2020-09-23T15:48:24Z
-description = "Swaroop Hegde will be speaking on \"Using Aurora Global Database for 10x Faster API\" from 10:00 AM - 10:45 AM Track 1 on 16th October 2020  at AWS Community Day India 2020."
+description = "Swaroop Hegde will be speaking on \"Using Aurora Global Database for 10x Faster API\" from 10:00 AM - 10:45 AM Track 1 on 16th October 2020 at AWS Community Day India 2020."
 feature_image = "/images/swaroop-hegde.PNG"
 tags = ["Speaker", "AWSCommunityDay2020", "AWS", "Aurora"]
 title = "Know Your AWS Community Day India 2020 Speaker - Swaroop Hegde"
