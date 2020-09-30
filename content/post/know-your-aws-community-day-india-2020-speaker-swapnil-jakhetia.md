@@ -9,7 +9,7 @@ title = "Know Your AWS Community Day India 2020 Speaker - Swapnil Jakhetia"
 +++
 Swapnil Jakhetia is currently a Solution Architect at Blazeclan, India. Swapnil will be presenting a session on "**Infrastructure is Code with AWS CDK**" from 12:00 PM - 12:45 PM Track 1 on 16th October 2020 at AWS Community Day India 2020.
 
-{<iframe width="560" height="315" src="[https://www.youtube.com/embed/4XonX3Hhnyw](https://www.youtube.com/embed/4XonX3Hhnyw "https://www.youtube.com/embed/4XonX3Hhnyw")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>}
+{{< youtube 4XonX3Hhnyw >}}
 
 **Swapnil Jakhetia** says "Cloud Development Kit(CDK) redefined the way we look at Infrastructure as code". He will talk about interacting with high-level languages like python and java with a cloud development kit(CDK). He will also talk about the concepts & building blocks of CDK with a hands-on Demo.
 
