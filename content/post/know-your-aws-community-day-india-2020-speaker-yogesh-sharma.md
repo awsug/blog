@@ -3,8 +3,8 @@ author = "Dhruv Aggarwal"
 date = 2020-09-23T19:02:16Z
 description = "Interested to know more about Yogesh Sharma? Read on."
 feature_image = "/images/yogesh.PNG"
-tags = ["AWS", "AWSCommunityDay2020", "Speaker", "Kinesis", "Fargate", "CFN"]
-title = "Know Your AWS Community Day India 2020 Speaker -Yogesh Sharma"
+tags = ["Speaker", "AWS", "AWSCommunityDay2020" , "Kinesis", "Fargate", "CloudFormation"]
+title = "Know Your AWS Community Day India 2020 Speaker - Yogesh Sharma"
 
 +++
 Yogesh Sharma is currently a Cloud Architect at TCS. Yogesh will be presenting a session on "**Intelligent Serverless and Scalable Real-Time Data Pipeline using Kinesis, Fargate, and CFN**" from 10:00 AM - 10:45 AM Track 2 on 16th October 2020 at AWS Community Day India 2020.

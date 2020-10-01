@@ -3,7 +3,7 @@ author = "Dhruv Aggarwal"
 date = 2020-09-23T16:54:08Z
 description = "Abesh Rajasekharan will be speaking on \"Using Ansible to manage Hybrid Architecture\" from 02:00 PM - 02:45 PM Track 2 on 16th October at AWS Community Day India 2020."
 feature_image = "/images/abesh.PNG"
-tags = ["Speaker", "AWSComunityDay2020", "AWS", "Ansible"]
+tags = ["Speaker", "AWSComunityDay2020", "AWS", "Ansible", "CloudFormation"]
 title = "Know Your AWS Community Day India 2020 Speaker - Abesh Rajasekharan"
 
 +++
