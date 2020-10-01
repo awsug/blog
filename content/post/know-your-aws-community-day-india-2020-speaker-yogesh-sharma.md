@@ -3,7 +3,7 @@ author = "Dhruv Aggarwal"
 date = 2020-09-23T19:02:16Z
 description = "Interested to know more about Yogesh Sharma? Read on."
 feature_image = "/images/yogesh.PNG"
-tags = ["AWS", "AWSCommunityDay2020", "Speaker", "Kinesis", "Fargate", "CFN"]
+tags = ["Speaker", "AWS", "AWSCommunityDay2020", "Kinesis", "Fargate", "CFN"]
 title = "Know Your AWS Community Day India 2020 Speaker -Yogesh Sharma"
 
 +++
