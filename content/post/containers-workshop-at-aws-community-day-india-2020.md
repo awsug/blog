@@ -3,7 +3,7 @@ author = "BVN Praneeth"
 date = 2020-10-04T15:30:21Z
 description = "Microservices Deployment With AWS ECS"
 feature_image = ""
-tags = []
+tags = ["Workshops"]
 title = "Containers Workshop at AWS Community Day India 2020"
 
 +++
@@ -15,7 +15,7 @@ You’ll gain experience with AWS services like AWS EC2, ECR, ECS, Fargate, App 
 
 1. Containerize Applications and upload Docker image in AWS ECR
 2. Create ECS Cluster
-3. Task Definition (with with an image from ECR and from DockerHub)
+3. Task Definition (with with an image from ECR and from Docker Hub)
 4. Running / Scheduling Standalone Task
 5. Configuring and Running Services with Load balancing and Auto Scaling (including Capacity Provider)
 6. Advance Auto Scaling with ECS
