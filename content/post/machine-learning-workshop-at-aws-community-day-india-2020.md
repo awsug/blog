@@ -2,7 +2,7 @@
 author = "BVN Praneeth"
 date = 2020-10-04T15:44:15Z
 description = "Learn about cloud-based machine learning (ML) solutions"
-feature_image = ""
+feature_image = "/images/ml_workshop.png"
 tags = ["Workshops"]
 title = "Machine Learning Workshop at AWS Community Day India 2020"
 
