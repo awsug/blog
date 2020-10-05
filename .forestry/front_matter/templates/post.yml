@@ -25,9 +25,13 @@ fields:
   label: feature_image
 pages:
 - content/post/community-india-is-back.md
+- content/post/containers-workshop-at-aws-community-day-india-2020.md
 - content/post/know-your-aws-community-day-india-2020-speaker-abesh-rajasekharan.md
+- content/post/know-your-aws-community-day-india-2020-speaker-kapil-gambhir.md
 - content/post/know-your-aws-community-day-india-2020-speaker-mayank-raj.md
 - content/post/know-your-aws-community-day-india-2020-speaker-swapnil-jakhetia.md
 - content/post/know-your-aws-community-day-india-2020-speaker-swaroop-hegde.md
 - content/post/know-your-aws-community-day-india-2020-speaker-tushar-gupta.md
 - content/post/know-your-aws-community-day-india-2020-speaker-yogesh-sharma.md
+- content/post/machine-learning-workshop-at-aws-community-day-india-2020.md
+- content/post/serverless-workshop-at-aws-community-day-india-2020.md
