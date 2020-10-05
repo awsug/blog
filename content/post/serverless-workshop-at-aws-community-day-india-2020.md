@@ -2,7 +2,7 @@
 author = "BVN Praneeth"
 date = 2020-10-04T15:38:41Z
 description = "Hands-on experience in building a Serverless application"
-feature_image = ""
+feature_image = "/images/serverless_workshop.jpeg"
 tags = ["Workshops"]
 title = "Serverless Workshop at AWS Community Day India 2020"
 
