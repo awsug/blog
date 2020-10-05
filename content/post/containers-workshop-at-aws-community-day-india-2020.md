@@ -2,7 +2,7 @@
 author = "BVN Praneeth"
 date = 2020-10-04T15:30:21Z
 description = "Microservices Deployment With AWS ECS"
-feature_image = ""
+feature_image = "/images/containers_workshop.png"
 tags = ["Workshops"]
 title = "Containers Workshop at AWS Community Day India 2020"
 
