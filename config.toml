@@ -37,7 +37,7 @@ disabled = false
 simple = true
 [privacy.youtube]
 disabled = false
-privacyEnhanced = false
+privacyEnhanced = true
 [services.instagram]
 disableInlineCSS = true
 [services.twitter]
