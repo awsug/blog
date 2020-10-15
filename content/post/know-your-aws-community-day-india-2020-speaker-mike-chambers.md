@@ -9,9 +9,9 @@ title = "Know Your AWS Community Day India 2020 Speaker - Mike Chambers"
 +++
 Mike Chambers is currently a Course Creator at mikegchambers.com. Mike will be presenting a session on "**Going viral with AWS AI/ML services**" from 12:00 PM - 12:45 PM Track 2 on 16th October 2020 at AWS Community Day India 2020.
 
-<Introduction Video>
+{{< youtube snO_0YXQc9s >}}
 
-<AWS Service/Product used>
+Mike Chambers will be presenting a project in which video is taken as an input and its automatically gets edited using AWS Serverless technologies, Artificial Intelligence, Machine Learning and Media Services with a practical approach and applicability in real-world.
 
 Tune into the session!
 
