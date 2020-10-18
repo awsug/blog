@@ -2,7 +2,7 @@
 author = "Dhruv Aggarwal"
 date = 2020-10-17T15:11:56Z
 description = "We are gracious to have such a great response on AWS Community Day 2020 India from all of you."
-feature_image = ""
+feature_image = "/images/thank-you.PNG"
 tags = ["Grateful", "Thankyou"]
 title = "Thank you for joining AWS Community Day 2020 India Virtual Edition"
 
@@ -16,3 +16,5 @@ We are thankful to all are curious viewers who watched the live stream with a wi
 We are thankful to all the workshop organizers for a clear cut session presenting in an easy and understandable way.
 
 We are thankful to all the volunteers who took out their time from there work hours and made their way in making presentations, banners, blogs and marketing error-free.
+
+AWS User Group India organised AWS Community Day 2020 India Virtual Edition as **One Nation, One Community**.
