@@ -17,4 +17,4 @@ We are thankful to all the workshop organizers for a clear cut session presentin
 
 We are thankful to all the volunteers who took out their time from there work hours and made their way in making presentations, banners, blogs and marketing error-free.
 
-AWS User Group India organised AWS Community Day 2020 India Virtual Edition as **One Nation, One Community**.
+AWS User Group India organised AWS Community Day 2020 India Virtual Edition as **One Nation, One Community** from 16th October to 17th October 2020.
