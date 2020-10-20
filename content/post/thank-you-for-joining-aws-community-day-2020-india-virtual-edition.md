@@ -2,7 +2,7 @@
 author = "Dhruv Aggarwal"
 date = 2020-10-17T15:11:56Z
 description = "We are gracious to have such a great response on AWS Community Day 2020 India from all of you."
-feature_image = "/images/660_367.jpg"
+feature_image = "/images/thank-you.PNG"
 tags = ["Grateful", "Thankyou"]
 title = "Thank you for joining AWS Community Day 2020 India Virtual Edition"
 
